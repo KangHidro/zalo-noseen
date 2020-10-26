@@ -1,0 +1,22 @@
+{
+    "name": "Zalo No-Seen",
+    "version": "1.0",
+    "description": "Created for Zalo (web version): No-Seen, No-Typing",
+    "manifest_version": 2,
+    "icons": {
+      "16": "images/zalo.png",
+      "32": "images/zalo.png",
+      "48": "images/zalo.png",
+      "128": "images/zalo.png"
+    },
+	"permissions": [
+          "webRequest",
+		  "webRequestBlocking",
+          "*://*.chat.zalo.me/",
+		  "*://chat.zalo.me/*"
+    ],
+	"background": {
+      "scripts": ["main.js"],
+      "persistent": true
+    }
+}
