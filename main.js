@@ -9,7 +9,9 @@ chrome.webRequest.onBeforeRequest.addListener(
 	  "*://*.chat.zalo.me/api/message/typing*",
 	  "*://*.chat.zalo.me/api/group/seen*",
 	  "*://*.chat.zalo.me/api/social/profile/ping*",
-	  "*://*.chat.zalo.me/keepalive*"
+	  "*://*.chat.zalo.me/keepalive*",
+	  "*://*.chat.zalo.me/api/message/deliveredv2*",
+	  "*://*.chat.zalo.me/api/group/deliveredv2*",
     ],
     types: ["csp_report", "font", "image", "main_frame", "media", "object", "other", "ping", "script", "stylesheet", "sub_frame", "websocket", "xmlhttprequest"]
   },

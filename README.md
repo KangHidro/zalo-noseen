@@ -3,7 +3,7 @@ Chromium extensition: Zalo (Web chat) No-seen &amp; No-Typing
 
 Tiện ích mở rộng cho trình duyệt lõi Chromium: Zalo No-seen
 --
-Chặn "seen" tin nhắn và trạng thái "đang gõ" tin nhắn.
+Chặn "seen" tin nhắn, trạng thái "đang gõ" tin nhắn và trạng thái "Đã nhận" ở phía đối phương.
 Thích hợp cho việc "theo dõi" người ấy, đọc tin nhắn trước mà không bị phát hiện là tin nhắn đã bị đọc.
 
 Cài đặt
