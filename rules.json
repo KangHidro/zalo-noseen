@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "typing",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "seen",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ping",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "keepalive",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "delivered",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "last_Online",
+      "domains": [
+        "zalo.me"
+      ],
+      "resourceTypes": [
+        "csp_report",
+        "font",
+        "image",
+        "main_frame",
+        "media",
+        "object",
+        "other",
+        "ping",
+        "script",
+        "stylesheet",
+        "sub_frame",
+        "websocket",
+        "xmlhttprequest"
+      ]
+    }
+  }
+]
