@@ -5,16 +5,16 @@ Chromium extensition: Created for Zalo Web: No Seen/Typing/Delivered
 ## Update: Chặn luôn bằng các Adblocker, không cần cài extension nữa...
 
 Bạn chỉ cần thêm các Rule này vào bộ filter adblock đang dùng là được.
-
-<code>
+```
 ||chat.zalo.me/*/typing*
 ||chat.zalo.me/*/seen*
 ||chat.zalo.me/*/delivered*
 ||chat.zalo.me/keepalive*
 ||chat.zalo.me/*/ping*
-</code>
+```
 
-P/s: Nếu có ai dùng tính năng Side-panel của Microsoft EDGE (gần giống tính năng chia đôi màn hình ấy) thì các extension sẽ không hoạt động trên panel này được, nên nếu muốn block seen Zalo thì phải dùng Adguard PC/Mac và add custom rule này vào là ok nhé. Block seen facebook trên panel này cũng vậy, nếu có ai cần thì nhắn mình nhé...
+
+P/s: Nếu có ai dùng tính năng Side-panel của Microsoft EDGE (gần giống tính năng chia đôi màn hình ấy) thì các extension sẽ không hoạt động trên panel này được, nên nếu muốn block seen Zalo thì phải dùng Adguard PC/Mac và add custom rule này vào là ok nhé. Block seen facebook trên panel này cũng vậy, nếu có ai cần thì nhắn mình để mình viết hướng dẫn khác nhé...
 
 ## Tiện ích mở rộng cho trình duyệt lõi Chromium: Zalo Ẩn Thân Chi Thuật
 
